@@ -7,7 +7,7 @@ import static testpack2.TestDemo.Multiplication;
 public class TestSampleDemo {
 
     public static void main(String[] args) {
-        System.out.println("test");
+        System.out.println("testfiles");
         // a statis method can be called
         addition();
         additionParameter(1,2);
